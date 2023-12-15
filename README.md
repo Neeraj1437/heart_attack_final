@@ -28,4 +28,4 @@ This is a data analysis project focused on comprehensively understanding factors
 
 Special thanks to Kaggle for providing the dataset and the open-source community for their contributions.
 
-Feel free to explore, analyze, and contribute to CardioInsights!
+Feel free to explore, analyze, and contribute!
