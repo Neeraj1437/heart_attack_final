@@ -2,7 +2,7 @@
 
 **Description:**
 
-CardioInsights is a data analysis project focused on comprehensively understanding factors influencing heart attacks. Leveraging a diverse dataset sourced from Kaggle, the project employs a systematic methodology, combining column-wise exploration, heatmap-guided quantitative analyses, geospatial mapping, and graphical representation through bar graphs. The goal is to provide valuable insights into cardiovascular health, contributing to informed strategies for heart attack prevention.
+This is a data analysis project focused on comprehensively understanding factors influencing heart attacks. Leveraging a diverse dataset sourced from Kaggle, the project employs a systematic methodology, combining column-wise exploration, heatmap-guided quantitative analyses, geospatial mapping, and graphical representation through bar graphs. The goal is to provide valuable insights into cardiovascular health, contributing to informed strategies for heart attack prevention.
 
 **Key Features:**
 - **Comprehensive Exploration:** In-depth analysis of each dataset column to uncover relationships and patterns.
