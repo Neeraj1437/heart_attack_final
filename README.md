@@ -15,7 +15,7 @@ This is a data analysis project focused on comprehensively understanding factors
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/CardioInsights.git
+   git clone https://github.com/MinArchie/heart_attack_final.git
    ```
 
 **Dependencies:**
