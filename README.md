@@ -18,14 +18,6 @@ This is a data analysis project focused on comprehensively understanding factors
    git clone https://github.com/your-username/CardioInsights.git
    ```
 
-2. Navigate to the project directory:
-   ```
-   cd CardioInsights
-   ```
-
-4. Review the dataset:
-   - `heart_attack_data.csv`
-
 **Dependencies:**
 - Python 3.x
 - Jupyter Notebooks
